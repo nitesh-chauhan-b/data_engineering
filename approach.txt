@@ -1,0 +1,13 @@
+This is how i'm going to do this.
+
+# I'm Going for the software engineering jobs domain (selecting either linkedin/ Indeed/ Naukari) : Using Naukri platform
+# From this extracting the jobs 
+
+# Clearing it 
+
+# Labling it/ Annoting it with proper data and all.
+
+# Finally pushing it to github drive and email the project.
+
+
+Job Title: VSTO dot net Developer Job Type: Full-Time Location: Hybrid Pune | Delhi | Bengaluru Job Summary: Join our customer's team as a VSTO dot net Developer and play a key role in designing and enhancing business solutions with Microsoft technologies Collaborate in a dynamic, agile environment, leveraging your expertise in C#, VSTO, and PowerPoint to create impactful automation and add-in solutions As part of a forward-thinking team, you will help deliver robust desktop applications that drive business efficiency, Key Responsibilities: Design, develop, and maintain VSTO-based applications and add-ins for Microsoft Office, with a focus on PowerPoint integration, Collaborate closely with cross-functional teams and project stakeholders to gather requirements and deliver tailored solutions, Utilize C#, WPF, and Windows Forms to create intuitive, high-performance user interfaces for desktop environments, Implement and manage continuous integration pipelines leveraging Azure DevOps for streamlined delivery, Participate actively in Agile ceremonies, contributing to sprint planning, reviews, and retrospectives, Ensure code quality and maintainability by writing clean, well-documented code and performing thorough code reviews, Troubleshoot, debug, and optimize applications for reliability and best-in-class user experiences, Required Skills and Qualifications: Proven expertise in C#, dot net Framework, and VSTO development for Microsoft Office, especially PowerPoint, Strong experience with Windows, WPF, and Windows Forms application development, Proficiency in Azure DevOps for source control, CI/CD, and project tracking, Demonstrated agile mindset and hands-on experience working in Agile or Scrum teams, Excellent written and verbal communication skills, with a strong commitment to clear, proactive collaboration, Strong problem-solving abilities and attention to detail in a fast-paced, hybrid work environment, Preferred Qualifications: Experience developing automation tools or business productivity solutions for enterprise environments, Background in integrating third-party APIs or services with Microsoft Office applications, Prior experience working with distributed or remote teams in a hybrid work model, Show more Show less
