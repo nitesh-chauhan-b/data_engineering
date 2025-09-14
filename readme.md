@@ -1,4 +1,4 @@
-# 📝 Software Engineering Job Scraping
+# 📝 Job Scraping from Naukri
 
 ## 📌 Overview
 This project focuses on collecting, cleaning, and annotating job postings from the **Software Engineering domain** using the **Naukri.com platform**. The workflow involves three main steps:
