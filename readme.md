@@ -57,7 +57,7 @@ Annotated dataset saved as `annotated_data.csv` (15–20 rows).
 
 ## 🚀 Setup Instructions
 
-It is recommended to use a virtual environment for Python projects. Follow the steps below given:
+It is recommended to use a virtual environment for Python projects. Follow the steps given below:
 
 ```powershell
 # Create a virtual environment
