@@ -48,11 +48,27 @@ Defined **three annotation labels**:
 Annotated dataset saved as `annotated_data.csv` (15–20 rows).
 
 
-## 🛠️ Tools & Libraries Used
-- **Selenium** → For scraping dynamic content and handling JavaScript-rendered job pages.  
-- **BeautifulSoup** → For parsing and extracting structured text from job pages.  
-- **Pandas** → For cleaning, normalizing, and managing datasets.  
 
+## 🛠️ Tools & Libraries Used
+**Selenium** → For scraping dynamic content and handling JavaScript-rendered job pages.  
+**BeautifulSoup** → For parsing and extracting structured text from job pages.  
+**Pandas** → For cleaning, normalizing, and managing datasets.  
+
+
+## 🚀 Setup Instructions
+
+It is recommended to use a virtual environment for Python projects. Follow the steps below for your OS:
+
+```powershell
+# Create a virtual environment
+python -m venv venv
+
+# Activate the virtual environment
+venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
 
 
 ## 🚧 Challenges Faced
