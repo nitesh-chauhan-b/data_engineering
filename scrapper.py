@@ -108,7 +108,7 @@ def store_job_details(job_urls):
             # print(header)
 
             # Using dict to store the job data
-            job_data = {"url":url}
+            job_data = {}
 
             # Getting the Job details 
             
@@ -159,7 +159,8 @@ def store_job_details(job_urls):
             job_data["location"] = location
             job_data["job_description"] = job_description
             job_data["skills"] = filtered_skills
-
+            job_data["url"] = url
+            
             # Adding this data to the row data
             raw_job_data.append(job_data)
             # break
